@@ -34,7 +34,7 @@
         Example:
         ==========
 
-                . Bet data:
+                . Contract data:
                     . Mary bet  1 BTC at weight 99'999 and won
                     . John bet  2 BTC at weight 80'000 and won
                     . Alex bet  5 BTC at weight 60'000 and lost
